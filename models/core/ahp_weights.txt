@@ -1,0 +1,20 @@
+AHP Weights — Flood Hazard Model
+========================================
+
+  elevation        0.20
+  twi              0.18
+  dist_rivers      0.15
+  flow_accum       0.12
+  runoff           0.12
+  slope            0.10
+  rainfall         0.08
+  lulc             0.05
+
+  TOTAL            1.00
+
+Zone breaks (equal interval):
+  Zone 1 Very Low    : 0.00 – 0.20
+  Zone 2 Low         : 0.20 – 0.40
+  Zone 3 Moderate    : 0.40 – 0.60
+  Zone 4 High        : 0.60 – 0.80
+  Zone 5 Very High   : 0.80 – 1.01

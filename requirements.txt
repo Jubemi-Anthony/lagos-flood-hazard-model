@@ -1,0 +1,8 @@
+# Lagos Flood model bundle — Python deps (Python 3.10+)
+numpy>=1.24
+pandas>=2.0
+rasterio>=1.3
+geopandas>=0.14
+shapely>=2.0
+matplotlib>=3.7
+streamlit>=1.30        # only needed to run app_starter.py
